@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Data Science at Bloomtech.
-- 💼 &nbsp; Currently looking to transition into the coding sector from manufacturing.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 🎓 &nbsp; Studying Data Science at Bloomtech
+- 💼 &nbsp; Currently looking to transition into the coding sector from manufacturing
 - 🌱 &nbsp; Improving my Python skills and general coding practices
 - ✍️ &nbsp; Avid gamer, science nerd, and occasional musician (alto sax, mostly)
 
